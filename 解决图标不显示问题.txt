@@ -7,4 +7,4 @@ HKEY_LOCAL_MACHINE\Software\Microsoft\windows\CurrentVersion\Explorer;
 修改键名 Max Cached Icons (最大缓存图标) 的值为 2000
 
 
-tortoiseGit->图标覆盖->默认jfhfg
+tortoiseGit->图标覆盖->默认jfhfg【】、【】怕【
